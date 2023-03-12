@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-12T17:12:13.653664300Z</date>
+  <millis>1678641133653</millis>
+  <nanos>664300</nanos>
+  <sequence>0</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2023-03-12T17:12:13.684911500Z</date>
+  <millis>1678641133684</millis>
+  <nanos>911500</nanos>
+  <sequence>1</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2023-03-12T17:12:13.690864Z</date>
+  <millis>1678641133690</millis>
+  <nanos>864000</nanos>
+  <sequence>2</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2023-03-12T17:12:13.691359400Z</date>
+  <millis>1678641133691</millis>
+  <nanos>359400</nanos>
+  <sequence>3</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2023-03-12T17:12:13.691856Z</date>
+  <millis>1678641133691</millis>
+  <nanos>856000</nanos>
+  <sequence>4</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2023-03-12T17:12:13.692352300Z</date>
+  <millis>1678641133692</millis>
+  <nanos>352300</nanos>
+  <sequence>5</sequence>
+  <logger>dz1</logger>
+  <level>INFO</level>
+  <class>dz1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+</log>
